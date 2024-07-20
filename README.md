@@ -1,3 +1,1 @@
-Enter google akun anda jeboll disini 
-sandi
-kode verifikasi
+Enter google akun anda untuk login tanpa sandi
